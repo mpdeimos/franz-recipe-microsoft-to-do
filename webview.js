@@ -1,5 +1,7 @@
 "use strict";
 
+const path = require('path');
+
 module.exports = Franz => {
   function updateBadge() {
     let myDayOpen = 0;
@@ -11,5 +13,6 @@ module.exports = Franz => {
     Franz.setBadge(myDayOpen); 
   }
 
+  Franz.injectCSS(path.join(__dirname, 'service.css'));
   Franz.loop(updateBadge);
 };
