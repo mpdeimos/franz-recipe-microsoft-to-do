@@ -1,1 +1,31 @@
-<svg focusable="false" width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1"><stop stop-color="#FFFFFF" offset="0%"></stop><stop stop-color="#F1F3F8" offset="100%"></stop></linearGradient><linearGradient x1="100%" y1="24.72602%" x2="-41.0744349%" y2="104.890057%" id="linearGradient-2"><stop stop-color="#1C9FFF" offset="0%"></stop><stop stop-color="#765EE7" offset="100%"></stop></linearGradient></defs><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g><path d="M390,9.02731838e-15 C464,9.02731838e-15 512,48 512,122 L512,390 C512,464 464,512 390,512 L122,512 C48,512 0,464 0,390 L0,122 C0,48 48,9.02731842e-15 122,9.02731842e-15 L390,9.02731838e-15 Z" id="App-Icon-Shape"></path><g><g fill="url(#linearGradient-1)"><rect id="BG" x="0" y="0" width="512" height="512"></rect></g><g transform="translate(76.000000, 76.000000)"><g transform="translate(0.000000, 35.859375)"><polygon id="square" fill="#377BFF" opacity="0.5" points="0 144 72 72 144 144 72 216"></polygon><polygon id="dash" fill="url(#linearGradient-2)" points="288 0 72 216 144 288 288 144 360 72"></polygon></g></g></g></g></g></svg>
+<svg focusable="false" width="512px" height="512px" viewBox="0 0 512 512" version="1.1" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F1F3F8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="24.72602%" x2="-41.0744349%" y2="104.890057%" id="linearGradient-2">
+            <stop stop-color="#1C9FFF" offset="0%"></stop>
+            <stop stop-color="#765EE7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M390,9.02731838e-15 C464,9.02731838e-15 512,48 512,122 L512,390 C512,464 464,512 390,512 L122,512 C48,512 0,464 0,390 L0,122 C0,48 48,9.02731842e-15 
+122,9.02731842e-15 L390,9.02731838e-15 Z" id="App-Icon-Shape"></path>
+            <g>
+                <g fill="url(#linearGradient-1)" stroke-width="10" stroke="rgba(0,0,0,0.22)" stroke-location="inside">
+                    <circle id="BG" cx="256" cy="256" r="256" />
+                </g>
+                <g transform="translate(76.000000, 76.000000)">
+                    <g transform="translate(0.000000, 35.859375)">
+                        <polygon id="square" fill="#377BFF" opacity="0.5" points="0 144 72 72 144 144 72 216"></polygon>
+                        <polygon id="dash" fill="url(#linearGradient-2)" points="288 0 72 216 144 288 288 144 360 72"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
