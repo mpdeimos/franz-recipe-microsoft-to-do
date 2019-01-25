@@ -1,0 +1,14 @@
+{
+    "id": "microsoft-to-do",
+    "name": "Microsoft To-Do",
+    "version": "0.0.1",
+    "description": "Microsoft To-Do",
+    "main": "index.js",
+    "author": "Martin Poehlmann <mpdeimos@users.noreply.github.com>",
+    "license": "MIT",
+    "repository": "https://github.com/mpdeimos/franz-recipe-microsoft-to-do",
+    "config": {
+      "serviceURL": "https://to-do.microsoft.com/"
+    }
+  }
+  
